@@ -1,3 +1,7 @@
+备注：
+1.需要安装 PIl库 pip install pillow 
+2.需要安装 pyinstall库 pip install pyinstaller 
+
 Select-good-pic-by-single-view的流程说明：
 1.点击按钮1，打开要挑选的单视角下的某个类别的目录
 比如：D:/lsl-e/赵锟-2021-研究生/论文和数据集/Multi_view_Datasets/cvbrct_dataset/cvbrct/aerial/apartment
