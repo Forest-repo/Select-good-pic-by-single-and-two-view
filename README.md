@@ -39,6 +39,9 @@
 1.需要安装 PIl库 pip install pillow 
 
 2.需要安装 pyinstall库 pip install pyinstaller 
+
+3.打包命令 pyinstaller -F -w yourprogram.py   #注意大小写  -F 打包为一个exe文件 -w 隐藏cmd窗口   默认打包为一个目录下 dist
+
 # 参考网址(实际用上的网址)
 1.[http://c.biancheng.net/tkinter/what-is-gui.html](http://c.biancheng.net/tkinter/what-is-gui.html)
 
