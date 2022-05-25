@@ -37,6 +37,7 @@
 
 # 安装备注：
 1.需要安装 PIl库 pip install pillow 
+
 2.需要安装 pyinstall库 pip install pyinstaller 
 # 参考网址(实际用上的网址)
 1.[http://c.biancheng.net/tkinter/what-is-gui.html](http://c.biancheng.net/tkinter/what-is-gui.html)
