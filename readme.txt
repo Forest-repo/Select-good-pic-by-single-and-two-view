@@ -17,3 +17,7 @@ pyinstaller -F -w yourprogram.py   #-F 打包为一个exe文件 -w隐藏cmd窗�
 
 实战发现：
 1.建立一个新的python自带的虚拟环境确实要剩一些内存，比如10.4MB与16.5MB的区别，而且打包的时候要快不少，不过就是新建虚拟环境后 需要重新安装需要的库，这里重点强调在代码里能用啥库就导入，用不到的就不要导入了。
+
+参考网址（实际用到的网址推荐）
+1.http://c.biancheng.net/tkinter/what-is-gui.html
+2.https://sunhwee.com/posts/80fa3a85.html
