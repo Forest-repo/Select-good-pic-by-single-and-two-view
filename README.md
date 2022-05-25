@@ -17,7 +17,7 @@
 5.记住当前的类别和index，以防下次时忘记挑选到哪了，下次直接输入index，点击 跳转按钮，
 可以直接选择到index对应的图片。
 ### 演示图片：
-![Markdown](show1.png)
+![Markdown](show_pngs/show1.png)
 
 
 
