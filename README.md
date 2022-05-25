@@ -2,8 +2,8 @@
 1.需要安装 PIl库 pip install pillow 
 2.需要安装 pyinstall库 pip install pyinstaller 
 # 参考网址
-1.[Markdown](http://c.biancheng.net/tkinter/what-is-gui.html)
-2.[Markdown](https://sunhwee.com/posts/80fa3a85.html)
+1.[Markdown]([http://c.biancheng.net/tkinter/what-is-gui.html])
+2.[Markdown]([https://sunhwee.com/posts/80fa3a85.html])
 
 # 1.Select-good-pic-by-single-view
 ## 功能描述
