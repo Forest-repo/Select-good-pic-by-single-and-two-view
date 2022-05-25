@@ -1,9 +1,9 @@
 # Select-good-pic-by-single-view
+## 功能描述
 用python自带tkinter完成的gui功能：在单视角数据集挑选有可学习特征的图片，复制到输出目录
 有详细的代码和文件，并且有打包为exe功能，可以直接在别人电脑运行，有打包的说明。
 
-##
-Select-good-pic-by-single-view的流程说明：
+### Select-good-pic-by-single-view的流程说明：
 1.点击按钮1，打开要挑选的单视角下的某个类别的目录
 比如：D:/lsl-e/赵锟-2021-研究生/论文和数据集/Multi_view_Datasets/cvbrct_dataset/cvbrct/aerial/apartment
 
