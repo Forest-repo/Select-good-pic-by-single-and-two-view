@@ -1,3 +1,7 @@
+# 安装备注：
+1.需要安装 PIl库 pip install pillow 
+2.需要安装 pyinstall库 pip install pyinstaller 
+
 # 1.Select-good-pic-by-single-view
 ## 功能描述
 用python自带tkinter完成的gui功能：在单视角数据集挑选有可学习特征的图片，复制到输出目录。（注意这里是1个视角，对应输出到1个目录）
