@@ -29,7 +29,7 @@
 有详细的代码和文件，并且有打包为exe功能，可以直接在别人电脑运行，有打包的说明。
 
 ### Select-goodmatch-pic-by-good-twoviews的流程说明：
-1.跟单视角差不多，按顺序点击即可
+1.跟单视角差不多，按顺序点击即可，需要提前手动建立好输出的类别目录，跟原来的目录结构保持一致。
 
 2.输出目标类别目录，例子为：Multi_view_Datasets/cvbrct_dataset/good_double_views 即可，会自动找到视角和类别。
 
