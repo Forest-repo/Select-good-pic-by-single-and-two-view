@@ -19,7 +19,7 @@
 
 6.注意在选完一个类别后，需要关闭后再重新启动，进行下一个类别的挑选
 ### 演示图片：
-![Markdown](show_pngs/show1.png)
+![Markdown](show_pngs/select_single_view.png)
 
 
 
@@ -34,6 +34,9 @@
 2.输出目标类别目录，例子为：Multi_view_Datasets/cvbrct_dataset/good_double_views 即可，会自动找到视角和类别。
 
 3.注意在选完一个类别后，需要关闭后再重新启动，进行下一个类别的挑选
+
+### 演示图片：
+![Markdown](show_pngs/select_double_views.png)
 
 # 安装备注：
 1.需要安装 PIl库 pip install pillow 
